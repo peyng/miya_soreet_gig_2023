@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/miya_street_gig_2021/20210522039.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(20230520_035.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -154,6 +154,14 @@ a.p:hover span {
 <a href="20230520_032.JPG" data-lightbox="abc"><img src="20230520_032.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230520_033.JPG" data-lightbox="abc"><img src="20230520_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230520_034.JPG" data-lightbox="abc"><img src="20230520_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230520_036.JPG" data-lightbox="abc"><img src="20230520_036.JPG" alt="サンプル画像" width="900" /></a>
+<br><br><br>
+<h1><span class="blue">お孫さんより、花束贈呈”</span></h1>
+<a href="20230520_037.JPG" data-lightbox="abc"><img src="20230520_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230520_038.JPG" data-lightbox="abc"><img src="20230520_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230520_039.JPG" data-lightbox="abc"><img src="20230520_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230520_040.JPG" data-lightbox="abc"><img src="20230520_040.JPG" alt="サンプル画像" width="900" /></a>	
+
 
 
 
