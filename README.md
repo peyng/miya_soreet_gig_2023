@@ -109,13 +109,21 @@ a.p:hover span {
 	<h1><span class="blue">本番動画</span></h1>
 	<h1><span class="blue">Gr紹介から一曲目演奏</span></h1>
 
-<iframe width="600" height="338" src="https://www.youtube.com/embed/LJOoqM8U7tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9X_u1PbXx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	
-<h1><span class="blue">ちあきなおみ「喝采」、オリジナルバージョン</span></h1>	
-<iframe width="600" height="338" src="https://www.youtube.com/embed/YtfEWf1t2e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/951vakI7dPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/26m9_JzieUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4ecfNK73Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DJ7YnFBKik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1zHSqt0dfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
 
-<h1><span class="blue">エンディング</span></h1>
-<iframe width="600" height="338" src="https://www.youtube.com/embed/Xm0hGIKeVpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1><span class="blue">最後の曲演奏</span></h1>	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4l4XVDX6N58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	
 <br>
 
@@ -154,7 +162,7 @@ a.p:hover span {
 <a href="20230520_032.JPG" data-lightbox="abc"><img src="20230520_032.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230520_033.JPG" data-lightbox="abc"><img src="20230520_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230520_034.JPG" data-lightbox="abc"><img src="20230520_034.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230520_036.JPG" data-lightbox="abc"><img src="20230520_036.JPG" alt="サンプル画像" width="900" /></a>
+
 <br><br><br>
 <h1><span class="blue">お孫さんより、花束贈呈”</span></h1>
 <a href="20230520_037.JPG" data-lightbox="abc"><img src="20230520_037.JPG" alt="サンプル画像" width="900" /></a>
@@ -168,7 +176,7 @@ a.p:hover span {
 <br><br><br>
 
 	<h1><span class="blue">パンフレット</span></h1>
-<a href="20230520_035.JPG" data-lightbox="abc"><img src="20230520_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230520_036.JPG" data-lightbox="abc"><img src="20230520_036.JPG" alt="サンプル画像" width="900" /></a>
 <br>
 
 
