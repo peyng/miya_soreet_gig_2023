@@ -174,7 +174,7 @@ a.p:hover span {
 
 
 <br><br><br>
-<p align="left"> <img src="QR_miyagig.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_miyagig.png" alt="MiyaStreetGig,アクセス用QRコード" width="100">MiyaStreetGig,アクセス用QRコード</p>
 	<h1><span class="blue">パンフレット</span></h1>
 <a href="20230520_036.JPG" data-lightbox="abc"><img src="20230520_036.JPG" alt="サンプル画像" width="900" /></a>
 <br>
