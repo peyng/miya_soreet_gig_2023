@@ -100,7 +100,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 	
-<p><a href="https://peyng.github.io/River-Jewelries-home/">Home</a>>miya street gig 2023</p>
+<p><span class="yellow"><a href="https://peyng.github.io/River-Jewelries-home/">Home</a>>miya street gig 2023</span></p>
 <h1><span class="yellow"><marquee behavior="left">!!! 2023年5月20日(土)_River Jewelries@宇都宮オリオンスクエア !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
