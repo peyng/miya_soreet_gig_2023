@@ -108,12 +108,12 @@ a.p:hover span {
 <a href="20231103_002.jpg" data-lightbox="abc"><img src="20231103_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20231103_003.jpg" data-lightbox="abc"><img src="20231103_003.jpg" alt="サンプル画像" width="900" /></a>
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 
 <h1><span class="yellow"><marquee behavior="left">!!! 2023年5月20日(土)_River Jewelries@宇都宮オリオンスクエア !!!</marquee></span></h1>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br>
+<br><br>
 
 
 	<h1><span class="blue">本番動画</span></h1>
